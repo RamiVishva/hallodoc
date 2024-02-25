@@ -82,3 +82,4 @@ C:\Users\hp\Downloads\hallodoc-mvc-master\HalloDoc\obj\Debug\net7.0\refint\Hallo
 C:\Users\hp\Downloads\hallodoc-mvc-master\HalloDoc\obj\Debug\net7.0\HalloDoc.pdb
 C:\Users\hp\Downloads\hallodoc-mvc-master\HalloDoc\obj\Debug\net7.0\HalloDoc.genruntimeconfig.cache
 C:\Users\hp\Downloads\hallodoc-mvc-master\HalloDoc\obj\Debug\net7.0\ref\HalloDoc.dll
+C:\Users\hp\Downloads\hallodoc-mvc-master\HalloDoc\obj\Debug\net7.0\HalloDoc.sourcelink.json

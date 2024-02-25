@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8hSxAjPT5pAxEAJtv2bZ9oFzq+7jzzdzsc2qLBdAV3M=",
+  "Hash": "rFqSuvE1+9nZtElVfulVNI2w6vT1+X9Xjn7EV0QSc0U=",
   "Source": "HalloDoc",
   "BasePath": "_content/HalloDoc",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\hp\\Downloads\\hallodoc-mvc-master\\HalloDoc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HalloDoc.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\hp\\Downloads\\hallodoc-mvc-master\\HalloDoc\\wwwroot\\css\\Admin.css",
+      "SourceId": "HalloDoc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hp\\Downloads\\hallodoc-mvc-master\\HalloDoc\\wwwroot\\",
+      "BasePath": "_content/HalloDoc",
+      "RelativePath": "css/Admin.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Admin.css"
     },
     {
       "Identity": "C:\\Users\\hp\\Downloads\\hallodoc-mvc-master\\HalloDoc\\wwwroot\\css\\site.css",
